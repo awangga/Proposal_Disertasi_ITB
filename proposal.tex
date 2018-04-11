@@ -1,0 +1,50 @@
+\documentclass[twoside,onecolumn,fleqn,a4paper,12pt]{prop-spsitb}
+%
+\input{preambule}
+%
+\begin{document}
+%
+\frontmatter
+\input{cover.tex}
+
+\newpage
+\input{abstract.tex}
+\addcontentsline{toc}{chapter}{ABSTRACT}
+
+\newpage
+\input{abstrak.tex}
+\addcontentsline{toc}{chapter}{ABSTRAK}
+
+\newpage
+\input{validation.tex}
+\addcontentsline{toc}{chapter}{VALIDATION SHEET}
+
+\newpage
+\input{preface.tex}
+\addcontentsline{toc}{chapter}{PREFACE}
+
+\tableofcontents
+\addcontentsline{toc}{chapter}{CONTENTS}
+
+\listoffigures
+\addcontentsline{toc}{chapter}{LIST OF FIGURES}
+
+\listoftables
+\addcontentsline{toc}{chapter}{LIST OF TABLES}
+
+% mulai penomeran arabic
+\pagestyle{plain}
+\mainmatter
+\input{Chap1}
+\input{Chap2}
+\input{Chap3}
+\input{Chap4}
+\input{Chap5}
+%
+\bibliography{bibtex}
+\addcontentsline{toc}{chapter}{BIBLIOGRAPHY}
+\cleardoublepage
+%\appendix 
+%\input{biblio.tex}
+
+\end{document}

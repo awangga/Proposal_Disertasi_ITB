@@ -1,0 +1,34 @@
+\contentsline {chapter}{ABSTRACT}{iv}{Doc-Start}
+\contentsline {chapter}{ABSTRAK}{vi}{Doc-Start}
+\contentsline {chapter}{VALIDATION SHEET}{ix}{Doc-Start}
+\contentsline {chapter}{PREFACE}{ix}{Doc-Start}
+\contentsline {chapter}{CONTENTS}{xi}{chapter*.1}
+\contentsline {chapter}{LIST OF FIGURES}{xiii}{chapter*.2}
+\contentsline {chapter}{LIST OF TABLES}{xv}{chapter*.3}
+\contentsline {chapter}{\numberline {I}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {I.1}Background}{1}{section.1.1}
+\contentsline {section}{\numberline {I.2}Objectives}{2}{section.1.2}
+\contentsline {section}{\numberline {I.3}Scope}{3}{section.1.3}
+\contentsline {section}{\numberline {I.4}Method}{4}{section.1.4}
+\contentsline {section}{\numberline {I.5}Novelty and Originality}{5}{section.1.5}
+\contentsline {section}{\numberline {I.6}Output Target}{5}{section.1.6}
+\contentsline {chapter}{\numberline {II}Radio Galaxies}{7}{chapter.2}
+\contentsline {section}{\numberline {II.1}Active Galactic Nuclei}{7}{section.2.1}
+\contentsline {subsection}{\numberline {II.1.1}Classification and Unification}{8}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {II.1.2}Emission Processes}{10}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {II.1.2.1}Synchrotron Emission}{10}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {II.1.2.2}Dust Emission}{12}{subsubsection.2.1.2.2}
+\contentsline {section}{\numberline {II.2}Radio Galaxy}{13}{section.2.2}
+\contentsline {subsection}{\numberline {II.2.1}Morphology}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {II.2.2}Host Galaxies and Environments}{15}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {III}Radio Interferometry}{17}{chapter.3}
+\contentsline {section}{\numberline {III.1}Aperture Synthesis}{17}{section.3.1}
+\contentsline {section}{\numberline {III.2}Atacama Large Millimeter/submillimeter Array (ALMA)}{20}{section.3.2}
+\contentsline {chapter}{\numberline {IV}Data Selection and Analysis}{23}{chapter.4}
+\contentsline {section}{\numberline {IV.1}Data Selection}{23}{section.4.1}
+\contentsline {section}{\numberline {IV.2}Method}{26}{section.4.2}
+\contentsline {subsection}{\numberline {IV.2.1}Splitting and Self-Calibration}{26}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {IV.2.2}Concatenating}{28}{subsection.4.2.2}
+\contentsline {section}{\numberline {IV.3}Analysis}{29}{section.4.3}
+\contentsline {chapter}{\numberline {V}Work Plan}{31}{chapter.5}
+\contentsline {chapter}{BIBLIOGRAPHY}{37}{chapter*.6}
