@@ -4,6 +4,11 @@
 %
 \begin{document}
 %
+
+%%%%%
+%\pagenumbering{Alph}
+
+
 \frontmatter
 \input{cover.tex}
 
@@ -33,15 +38,17 @@
 \addcontentsline{toc}{chapter}{LIST OF TABLES}
 
 % mulai penomeran arabic
+%%%%%%
+%\pagenumbering{arabic}
 \pagestyle{plain}
 \mainmatter
-\input{Chap1}
-\input{Chap2}
-\input{Chap3}
-\input{Chap4}
-\input{Chap5}
+\input{chapter/1}
+\input{chapter/2}
+\input{chapter/3}
+\input{chapter/4}
+\input{chapter/5}
 %
-\bibliography{bibtex}
+\bibliography{references}
 \addcontentsline{toc}{chapter}{BIBLIOGRAPHY}
 \cleardoublepage
 %\appendix 
